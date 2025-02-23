@@ -54,6 +54,7 @@
             </intent-filter>
         </activity>
         <!-- 图标2 -->
+        <!-- 图标2 -->
         <activity
             android:name=".ui.welcome.Launcher2"
             android:enabled="false"
